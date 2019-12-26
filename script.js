@@ -1,9 +1,3 @@
-// let light = document.querySelector('.switch');
-
-
-// light.addEventListener('click', light);
-
-
 function light(value) {
   var pic;
   if (value == 0) {
